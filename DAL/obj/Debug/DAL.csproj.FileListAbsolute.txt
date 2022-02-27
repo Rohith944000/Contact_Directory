@@ -1,0 +1,9 @@
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\bin\Debug\DAL.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\bin\Debug\DAL.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\bin\Debug\Model.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\bin\Debug\Model.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\obj\Debug\DAL.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\DAL\obj\Debug\DAL.pdb

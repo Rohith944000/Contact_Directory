@@ -1,0 +1,32 @@
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\ContactDirectory.exe.config
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\ContactDirectory.exe
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\ContactDirectory.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\BLL.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\Model.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\DAL.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\BLL.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\Model.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\bin\Debug\DAL.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.csprojAssemblyReference.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\MainWindow.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\App.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory_MarkupCompile.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory_MarkupCompile.lref
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\MainWindow.baml
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.g.resources
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.Properties.Resources.resources
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.csproj.GenerateResource.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.csproj.CoreCompileInputs.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.csproj.CopyComplete
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.exe
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\ContactDirectory.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Add Contact.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Add Contact.baml
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Edit Contact.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Edit Contact.baml
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Delete Contact.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Delete Contact.baml
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Search Contact.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Search Contact.baml
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Sort Contacts.g.cs
+C:\Users\isi\d05-e21-july-group2\Final Project\ContactDirectory\obj\Debug\Sort Contacts.baml

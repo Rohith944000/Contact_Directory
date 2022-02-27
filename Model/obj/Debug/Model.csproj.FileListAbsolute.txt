@@ -1,0 +1,6 @@
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\bin\Debug\Model.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\bin\Debug\Model.pdb
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\obj\Debug\Model.dll
+C:\Users\isi\d05-e21-july-group2\Final Project\Model\obj\Debug\Model.pdb

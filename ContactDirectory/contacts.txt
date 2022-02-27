@@ -1,0 +1,6 @@
+Dinesh,Karthik,123456
+Jadeja,Ravi,784512
+Mahendra,Dohni,789456
+Rohith,Sharma,987654
+Virat,Kohli,876543
+Yuvraj,Singh,963258
