@@ -1,5 +1,4 @@
 # Contact_Directory
-Created contact directory using C# and MVC architecture <br>
 ![Animation](https://user-images.githubusercontent.com/93736142/157763886-2f172d62-5761-4981-92b9-0fb0ae198242.gif)<br>
 # Features
 1. Display Contacts
