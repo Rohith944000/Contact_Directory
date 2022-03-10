@@ -3,7 +3,7 @@
 # Features
 1. Display Contacts
 2. Add/Edit/Delete Contact
-3. Search By Contact
+3. Search By contact number
 4. Sort By number or name <br>
 # Technologies
 1. Front-End - WPF Forms
